@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Agile_Extensions_Tests' do
+  pod 'Agile_Extensions', :path => '../'
+  
+  
+end

@@ -1,0 +1,22 @@
+{
+  "name": "Agile_Extensions",
+  "version": "0.1.0",
+  "summary": "A short description of Agile_Extensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/govind.ravaliya@agileinfoways.com/Agile_Extensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "govind.ravaliya@agileinfoways.com": "govind.ravaliya@agileinfoways.com"
+  },
+  "source": {
+    "git": "https://github.com/govind.ravaliya@agileinfoways.com/Agile_Extensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Agile_Extensions/Classes/**/*"
+}
